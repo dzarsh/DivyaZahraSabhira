@@ -1,2 +1,1 @@
-# DivyaZahraSabhira
-Divya's readme profile.
+**Divya Zahra Sabhira**
