@@ -35,4 +35,4 @@ Hi, I am Divya Zahra Sabhira, a Full-Time Undergraduate Student 🚀 from Bogor,
 
 
 
-![Divya's github stats](https://github-readme-stats.vercel.app/api?dzarsh=vaporjawn&show_icons=true&hide_border=true)
+![Divya's github stats](https://github-readme-stats.vercel.app/api?username=vaporjawn&show_icons=true&hide_border=true)
