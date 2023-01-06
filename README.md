@@ -17,7 +17,7 @@ Hi, I am Divya Zahra Sabhira, a Full-Time Undergraduate Student 🚀 from Bogor,
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on improving my techskill;
-- 🌱 I’m currently learning HTML;
+- 🌱 I’m currently learning C++;
 
 
 **Languages and Tools:**  
@@ -29,3 +29,8 @@ Hi, I am Divya Zahra Sabhira, a Full-Time Undergraduate Student 🚀 from Bogor,
 
 
 ![Divya's github stats](https://github-readme-stats.vercel.app/api?username=dzarsh&show_icons=true&hide_border=true)
+
+<!---
+dzarsh/DivyaZahraSabhira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
