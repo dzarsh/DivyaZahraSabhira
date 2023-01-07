@@ -16,7 +16,7 @@ Hi, I am Divya Zahra Sabhira, a Full-Time Undergraduate Student 🚀 from Bogor,
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 👩🏻‍💻 I’m currently working on improving my techskill;
 - 🌱 I’m currently learning C++;
 
 
