@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Hi, I am Divya Zahra Sabhira, a Full-Time Undergraduate Student 🚀 from Bogor, currently, I'm studying at 🙍🏽‍♂️ Telkom University as an Informatics Student. I am very interested to learn more about codes. I also enjoy to read comics, play games, and watch series.
+Hi, I am Divya Zahra Sabhira, a Full-Time Undergraduate Student 🚀 from Bogor, currently, I'm studying at Telkom University as an Informatics Student🧕🏻. I am very interested to learn more about codes. I also enjoy to read comics, play games, and watch series.
 
  
 
